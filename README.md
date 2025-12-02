@@ -226,6 +226,7 @@ Renderiza:
 - tabla
 - métricas clave
 
+```bash
 Forecasting Ventas/
 │
 └── app/
