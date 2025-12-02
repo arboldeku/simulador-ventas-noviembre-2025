@@ -194,7 +194,7 @@ Exportación del modelo final en modelo_final.joblib
 
 🎯 Objetivo: Predecir ventas día a día usando las predicciones previas, igual que en un entorno real.
 
-🧩 5. App Interactiva en Streamlit
+## 🧩 5. App Interactiva en Streamlit
 
 La última fase del proyecto consiste en transformar el modelo creado en una aplicación interactiva que permita a equipos comerciales, de pricing y dirección simular escenarios reales de negocio en segundos.
 
