@@ -1,0 +1,3 @@
+dataframe,n_rows,n_columns,duplicated_rows,duplicated_pct
+df_competencia,3552,5,0,0.0
+df_ventas,3552,10,0,0.0
