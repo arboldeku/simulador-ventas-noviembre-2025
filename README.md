@@ -247,7 +247,7 @@ La app está diseñada siguiendo principios de claridad y velocidad:
 
 Este proyecto demuestra cómo un flujo completo de Machine Learning aplicado al negocio puede resolver preguntas clave de ventas, pricing y competencia con rapidez y precisión.
 
-# Integra:
+### Integra:
 
   - Procesamiento y preparación profesional de datos
   - Modelización predictiva robusta
@@ -256,7 +256,7 @@ Este proyecto demuestra cómo un flujo completo de Machine Learning aplicado al 
 
 El resultado es una herramienta capaz de simular escenarios comerciales en segundos, pensada para equipos de demanda, pricing y dirección.
 
-# Este proyecto es totalmente extensible a:
+### Este proyecto es totalmente extensible a:
 
 - Nuevos productos
 - Otros periodos temporales
@@ -270,7 +270,7 @@ Una base sólida para construir soluciones de analítica avanzada orientadas al 
 Este proyecto es una demostración técnica creada con fines educativos y de portafolio.
 Los datos utilizados, las predicciones generadas y los escenarios simulados no representan información real de ninguna empresa.
 
-# La arquitectura, el modelo y la app Streamlit están diseñados para mostrar:
+### La arquitectura, el modelo y la app Streamlit están diseñados para mostrar:
 
   - Buenas prácticas de ciencia de datos
   - Flujo completo de MLOps básico
