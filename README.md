@@ -264,3 +264,17 @@ El resultado es una herramienta capaz de simular escenarios comerciales en segun
 - Integraciones reales en sistemas internos o dashboards ejecutivos
 
 Una base sólida para construir soluciones de analítica avanzada orientadas al negocio.
+
+## ⚠️ Disclaimer
+
+Este proyecto es una demostración técnica creada con fines educativos y de portafolio.
+Los datos utilizados, las predicciones generadas y los escenarios simulados no representan información real de ninguna empresa.
+
+# La arquitectura, el modelo y la app Streamlit están diseñados para mostrar:
+
+  - Buenas prácticas de ciencia de datos
+  - Flujo completo de MLOps básico
+  - Técnicas modernas de forecasting
+  - Presentación ejecutiva orientada a negocio
+
+El código puede adaptarse y ampliarse para casos reales, siempre respetando la privacidad, la seguridad y las políticas de uso de datos de cada organización.
